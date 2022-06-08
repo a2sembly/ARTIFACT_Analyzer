@@ -1,0 +1,415 @@
+ControlSet,CacheEntryPosition,Path,LastModifiedTimeUTC,Executed,Duplicate,SourceFile
+1,0,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.13.11432.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe,2022-06-DD 02:12:12,NA,False,Live Registry
+1,1,00000009	0001000d2ca80000	0000000000000000	8664	Microsoft.WindowsTerminal	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,2,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.13.11432.0_x64__8wekyb3d8bbwe\OpenConsole.exe,2022-06-DD 02:12:11,NA,False,Live Registry
+1,3,00000009	0001000d2ca80000	000a000055f00000	8664	Microsoft.WindowsTerminal	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,4,C:\Windows\System32\conhost.exe,2022-05-DD 05:19:30,NA,False,Live Registry
+1,5,C:\Users\rever\OneDrive\바탕 화면\분석도구\LECmd\LECmd.exe,2022-05-DD 05:54:56,NA,False,Live Registry
+1,6,\\?\C:\Users\rever\AppData\Local\Microsoft\VisualStudio\17.0_593f814a\WinFormsDesigner\hxutxq0w.bcu\DesignToolsServer.exe,2022-06-DD 04:28:54,NA,False,Live Registry
+1,7,C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\WebViewHost\WebViewHost.exe,2022-06-DD 04:26:12,NA,False,Live Registry
+1,8,C:\Users\rever\OneDrive\바탕 화면\ARTIFACT\ARTIFACT_Analyzer\bin\Debug\net6.0-windows\ARTIFACT_Analyzer.exe,2022-06-DD 06:31:35,NA,False,Live Registry
+1,9,C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\DiagnosticsHub.Collection.Service\StandardCollector.Service.exe,2019-04-DD 02:36:44,NA,False,Live Registry
+1,10,C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x64\ServiceHub.DataWarehouseHost.exe,2022-06-DD 04:26:31,NA,False,Live Registry
+1,11,C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Roslyn\VBCSCompiler.exe,2022-06-DD 04:27:47,NA,False,Live Registry
+1,12,C:\Users\rever\AppData\Local\Microsoft\OneDrive\22.111.0522.0002\FileCoAuth.exe,2022-06-DD 07:14:07,NA,False,Live Registry
+1,13,C:\WINDOWS\system32\WFS.exe,2022-06-DD 05:20:48,NA,False,Live Registry
+1,14,C:\Program Files\Microsoft Office\root\Office16\msoia.exe,2022-05-DD 10:12:25,NA,False,Live Registry
+1,15,\\?\C:\Users\rever\AppData\Local\Microsoft\VisualStudio\17.0_593f814a\WinFormsDesigner\rjg5c1dt.ggt\DesignToolsServer.exe,2022-06-DD 04:28:54,NA,False,Live Registry
+1,16,C:\WINDOWS\System32\SearchFilterHost.exe,2022-05-DD 05:19:22,NA,False,Live Registry
+1,17,C:\Program Files\Git\mingw64\bin\git.exe,2021-03-DD 12:21:54,NA,False,Live Registry
+1,18,C:\Program Files\Git\cmd\git.exe,2021-03-DD 12:21:54,NA,False,Live Registry
+1,19,C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x64\ServiceHub.Host.CLR.x64.exe,2022-06-DD 04:26:31,NA,False,Live Registry
+1,20,\\?\C:\Users\rever\AppData\Local\Microsoft\VisualStudio\17.0_593f814a\WinFormsDesigner\zrbaecfb.ifx\DesignToolsServer.exe,2022-06-DD 04:28:54,NA,False,Live Registry
+1,21,C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe,2022-06-DD 04:26:44,NA,False,Live Registry
+1,22,C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.RoslynCodeAnalysisService.exe,2022-06-DD 04:26:31,NA,False,Live Registry
+1,23,C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.ThreadedWaitDialog.exe,2022-06-DD 04:26:32,NA,False,Live Registry
+1,24,C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe,2022-06-DD 04:26:32,NA,False,Live Registry
+1,25,C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PerfWatson2.exe,2022-06-DD 04:26:27,NA,False,Live Registry
+1,26,C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.SettingsHost.exe,2022-06-DD 04:26:32,NA,False,Live Registry
+1,27,C:\WINDOWS\system32\DsmUserTask.Exe,2022-05-DD 05:19:36,NA,False,Live Registry
+1,28,C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.VSDetouredHost.exe,2022-06-DD 04:26:31,NA,False,Live Registry
+1,29,C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2022-06-DD 02:24:43,NA,False,Live Registry
+1,30,C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.IdentityHost.exe,2022-06-DD 04:26:32,NA,False,Live Registry
+1,31,C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe,2022-06-DD 04:26:31,NA,False,Live Registry
+1,32,C:\Program Files (x86)\VMware\VMware Workstation\vmnetcfg.exe,2020-11-DD 01:01:16,NA,False,Live Registry
+1,33,C:\Program Files (x86)\VMware\VMware Workstation\vmplayer.exe,2020-11-DD 12:59:36,NA,False,Live Registry
+1,34,C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe,2022-06-DD 02:24:44,NA,False,Live Registry
+1,35,C:\Users\rever\AppData\Local\Programs\Microsoft VS Code\Code.exe,2022-05-DD 09:43:18,NA,False,Live Registry
+1,36,00000009	03e8584100010000	000a000055f00001	8664	Microsoft.SecHealthUI	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,37,00000009	0001000000060000	000a00004a430000	8664	Microsoft.BingNews	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,38,00000009	0839038400180000	000a00004a430000	8664	Microsoft.GamingApp	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,39,00000009	0001000000230000	000a00004a430000	8664	Microsoft.Microsoft3DViewer	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,40,00000009	00000047c8f10000	000a000047ba0000	8664	Microsoft.Todos	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,41,00000009	0001000000370000	000a000055f00000	8664	Microsoft.WindowsSoundRecorder	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,42,00000009	0004000011990000	000a00004a430000	8664	Microsoft.MicrosoftStickyNotes	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,43,0000000b	000a00004cb803e8	000c000000000000	8664	1527c705-839a-4832-9118-54d4Bd6a0c89	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,44,0000000b	000a00004cb803e8	000c000000000000	8664	E2A4F912-2574-4A75-9BB0-0D023378592B	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,45,0000000b	000a00004c8b03e9	000c000000000000	8664	Microsoft.CredDialogHost	cw5n1h2txyewy	,,NA,False,Live Registry
+1,46,0000000b	000a000058410001	000a00003fab0000	8664	Microsoft.PPIProjection	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,47,0000000b	000a00004c7c03e8	000c000000000000	8664	Microsoft.Windows.CapturePicker	cw5n1h2txyewy	,,NA,False,Live Registry
+1,48,C:\Windows\SystemApps\NcsiUwpApp_8wekyb3d8bbwe\Application,2022-06-DD 06:02:39,NA,False,Live Registry
+1,49,0000000b	03e8585d00010000	0000000000000000	8664	NcsiUwpApp	8wekyb3d8bbwe	neutral,,NA,False,Live Registry
+1,50,0000000b	03e8584100010000	03e8584100010000	8664	NcsiUwpApp	8wekyb3d8bbwe	neutral,,NA,False,Live Registry
+1,51,0000000b	000a00004c7c03e8	000a000042990000	8664	Windows.CBSPreview	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,52,0000000b	0006000200010000	03e84a6101a70000	8664	Windows.PrintDialog	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,53,C:\Program Files (x86)\Naver\Naver Whale\Application\3.14.134.62\whale.exe,2022-05-DD 08:10:31,NA,False,Live Registry
+1,54,C:\Program Files\Norton Security\Engine32\22.22.4.11\nuPerfScan.exe,2022-05-DD 09:47:14,NA,False,Live Registry
+1,55,C:\Windows\System32\wuapihost.exe,2022-05-DD 05:19:14,NA,False,Live Registry
+1,56,00000000	000f00530d510000	000a000047ba0000	8664	Microsoft.SkypeApp	kzf8qxf38zg5c	,,NA,False,Live Registry
+1,57,C:\Program Files\WindowsApps\Microsoft.YourPhone_1.22051.113.0_x64__8wekyb3d8bbwe\YourPhoneServer\YourPhoneServer.exe,2022-06-DD 07:35:36,NA,False,Live Registry
+1,58,00000000	000f00530d510000	0000000000000000	8664	Microsoft.SkypeApp	kzf8qxf38zg5c	,,NA,False,Live Registry
+1,59,C:\Windows\System32\SystemSettingsBroker.exe,2022-05-DD 05:19:10,NA,False,Live Registry
+1,60,C:\WINDOWS\system32\wbem\wmic.exe,2022-05-DD 02:53:00,NA,False,Live Registry
+1,61,C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe,2022-05-DD 10:10:27,NA,False,Live Registry
+1,62,C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe,2021-12-DD 12:40:44,NA,False,Live Registry
+1,63,C:\WINDOWS\system32\sc.exe,2022-05-DD 05:20:02,NA,False,Live Registry
+1,64,C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv.exe,2022-02-DD 01:03:20,NA,False,Live Registry
+1,65,C:\Program Files\Intel\SUR\QUEENCREEK\x64\task.exe,2022-02-DD 01:03:22,NA,False,Live Registry
+1,66,C:\WINDOWS\System32\Wscript.exe,2022-05-DD 05:19:43,NA,False,Live Registry
+1,67,C:\WINDOWS\System32\LocationNotificationWindows.exe,2022-05-DD 05:20:10,NA,False,Live Registry
+1,68,C:\WINDOWS\system32\usoclient.exe,2022-05-DD 05:19:26,NA,False,Live Registry
+1,69,C:\Program Files (x86)\LG Software\LG Update Center\UCCounting.exe,2021-11-DD 08:14:06,NA,False,Live Registry
+1,70,C:\Windows\SysWOW64\schtasks.exe,2022-05-DD 05:19:49,NA,False,Live Registry
+1,71,C:\Windows\System32\schtasks.exe,2022-05-DD 05:19:49,NA,False,Live Registry
+1,72,C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe,2022-05-DD 05:20:11,NA,False,Live Registry
+1,73,C:\Program Files (x86)\LG Software\LG Update Center\Support\SSD\DiskAnalyzer.exe,2013-01-DD 06:54:46,NA,False,Live Registry
+1,74,C:\Program Files\Docker\Docker\resources\com.docker.wsl-distro-proxy.exe,2022-01-DD 04:34:17,NA,False,Live Registry
+1,75,C:\Program Files (x86)\KTSpeedClient\jre\bin\javaw.exe,2018-10-DD 04:39:02,NA,False,Live Registry
+1,76,C:\Program Files (x86)\KTSpeedClient\kt-speed-client.exe,2021-10-DD 12:39:54,NA,False,Live Registry
+1,77,C:\Program Files\Docker\Docker\resources\bin\com.docker.cli.exe,2022-01-DD 04:33:49,NA,False,Live Registry
+1,78,C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe,2021-04-DD 04:24:40,NA,False,Live Registry
+1,79,C:\Program Files\Docker\Docker\resources\com.docker.proxy.exe,2022-01-DD 04:34:15,NA,False,Live Registry
+1,80,C:\Program Files\Docker\Docker\resources\bin\docker.exe,2022-01-DD 04:33:56,NA,False,Live Registry
+1,81,00000009	000100112abd0000	0000000000000000	8664	Microsoft.DesktopAppInstaller	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,82,C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.17.10941.0_x64__8wekyb3d8bbwe\WindowsPackageManagerServer.exe,2022-04-DD 12:40:52,NA,False,Live Registry
+1,83,00000009	000100112abd0000	000a000055f00000	8664	Microsoft.DesktopAppInstaller	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,84,C:\Program Files\Docker\Docker\resources\vpnkit.exe,2022-01-DD 04:34:27,NA,False,Live Registry
+1,85,C:\Program Files (x86)\VMware\VMware Workstation\vmware-tray.exe,2020-11-DD 01:01:16,NA,False,Live Registry
+1,86,C:\Program Files\Docker\Docker\resources\vpnkit-bridge.exe,2022-01-DD 04:34:25,NA,False,Live Registry
+1,87,C:\Program Files (x86)\LG Software\LG Control Center\LGControlCenterRTManager.exe,2020-08-DD 01:45:38,NA,False,Live Registry
+1,88,C:\Windows\System32\mstsc.exe,2022-05-DD 05:20:15,NA,False,Live Registry
+1,89,C:\Users\rever\AppData\Local\SquirrelTemp\Update.exe,2020-06-DD 02:48:30,NA,False,Live Registry
+1,90,C:\Program Files (x86)\LG Software\LG OSD\HotkeyManager.exe,2019-10-DD 10:56:58,NA,False,Live Registry
+1,91,C:\Program Files (x86)\LG Software\LG Reader Mode\ReaderMode.exe,2019-11-DD 12:17:42,NA,False,Live Registry
+1,92,c:\windows\system32\lxss\wslhost.exe,2022-05-DD 12:24:02,NA,False,Live Registry
+1,93,C:\Program Files (x86)\HNC\Office 2020\HncUtils\Service\HncUpdateTray.exe,2020-01-DD 06:25:26,NA,False,Live Registry
+1,94,C:\Program Files (x86)\Teams Installer\Teams.exe,2020-08-DD 08:42:08,NA,False,Live Registry
+1,95,C:\Program Files\Windows Mail\wab.exe,2022-05-DD 05:20:09,NA,False,Live Registry
+1,96,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\101.0.1210.53\msedgewebview2.exe,2022-05-DD 07:14:55,NA,False,Live Registry
+1,97,C:\Program Files (x86)\PdaNet for Android\PnHelp.exe,2017-07-DD 02:38:20,NA,False,Live Registry
+1,98,C:\Program Files (x86)\PdaNet for Android\PdaNetPC.exe,2021-05-DD 06:48:34,NA,False,Live Registry
+1,99,C:\WINDOWS\system32\AUDIODG.EXE,2022-05-DD 05:18:59,NA,False,Live Registry
+1,100,C:\Users\rever\AppData\Local\JandiApp\app-1.5.2\JandiApp.exe,2022-01-DD 07:32:18,NA,False,Live Registry
+1,101,C:\WINDOWS\SysWOW64\runonce.exe,2022-05-DD 05:19:58,NA,False,Live Registry
+1,102,C:\Program Files\WindowsApps\MicrosoftTeams_22133.500.1346.3200_x64__8wekyb3d8bbwe\msteams.exe,2022-05-DD 01:04:54,NA,False,Live Registry
+1,103,C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Application,2022-04-DD 12:41:55,NA,False,Live Registry
+1,104,00000009	0004089c33f70000	0000000000000000	8664	Microsoft.549981C3F5F10	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,105,C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Win32Bridge.Server.exe,2022-04-DD 12:41:53,NA,False,Live Registry
+1,106,00000009	0004089c33f70000	000a00004a610000	8664	Microsoft.549981C3F5F10	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,107,00000000	0003001800d60000	0000000000000000	8664	60145ScottBrogden.ditto-cp	n6b029mg40na2	,,NA,False,Live Registry
+1,108,C:\Program Files\WindowsApps\60145ScottBrogden.ditto-cp_3.24.214.0_x86__n6b029mg40na2\Ditto.exe,2021-09-DD 12:42:48,NA,False,Live Registry
+1,109,00000000	0003001800d60000	000a000037ec0000	014c	60145ScottBrogden.ditto-cp	n6b029mg40na2	,,NA,False,Live Registry
+1,110,C:\Users\rever\AppData\Local\JandiApp\Update.exe,2022-01-DD 07:32:19,NA,False,Live Registry
+1,111,C:\Windows\System32\vmwp.exe,2022-05-DD 12:24:00,NA,False,Live Registry
+1,112,0000000b	0066000004dd0021	0000000000000000	8664	Microsoft.MicrosoftEdge.Stable	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,113,0000000b	0066000004dd0021	000a00004a610000	8664	Microsoft.MicrosoftEdge.Stable	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,114,C:\Program Files (x86)\Microsoft\Edge\Application\102.0.1245.33\identity_helper.exe,2022-06-DD 07:10:37,NA,False,Live Registry
+1,115,C:\WINDOWS\system32\vmcompute.exe,2022-05-DD 12:23:59,NA,False,Live Registry
+1,116,C:\Program Files\Docker\Docker\resources\bin\docker-credential-wincred.exe,2022-01-DD 04:33:52,NA,False,Live Registry
+1,117,C:\WINDOWS\SysWOW64\REG.exe,2022-05-DD 05:20:18,NA,False,Live Registry
+1,118,C:\WINDOWS\system32\REG.exe,2022-05-DD 05:20:02,NA,False,Live Registry
+1,119,C:\Program Files\Docker\Docker\resources\com.docker.desktop-extensions.exe,2022-01-DD 04:34:11,NA,False,Live Registry
+1,120,C:\Program Files\Docker\Docker\resources\com.docker.dev-envs.exe,2022-01-DD 04:34:12,NA,False,Live Registry
+1,121,C:\WINDOWS\system32\wsl.exe,2022-05-DD 05:20:17,NA,False,Live Registry
+1,122,C:\Program Files\Docker\Docker\resources\com.docker.backend.exe,2022-01-DD 04:34:10,NA,False,Live Registry
+1,123,C:\Windows\System32\CompPkgSrv.exe,2022-05-DD 05:18:59,NA,False,Live Registry
+1,124,C:\Users\rever\AppData\Local\Discord\app-1.0.9004\Discord.exe,2022-02-DD 02:13:24,NA,False,Live Registry
+1,125,C:\Program Files (x86)\iniLINE\CrossEX\crossex\CrossEXService.exe,2019-08-DD 05:57:18,NA,False,Live Registry
+1,126,C:\Users\rever\AppData\Local\Microsoft\Teams\Update.exe,2021-05-DD 08:57:00,NA,False,Live Registry
+1,127,C:\Users\rever\AppData\Local\Discord\Update.exe,2020-12-DD 01:43:28,NA,False,Live Registry
+1,128,C:\Users\rever\AppData\Local\Microsoft\OneDrive\22.111.0522.0002\Microsoft.SharePoint.exe,2022-06-DD 07:14:07,NA,False,Live Registry
+1,129,C:\Users\rever\AppData\Local\Microsoft\OneDrive\OneDrive.exe,2022-06-DD 07:14:08,NA,False,Live Registry
+1,130,C:\Windows\System32\OneDriveSetup.exe,2022-05-DD 10:51:32,NA,False,Live Registry
+1,131,C:\Program Files\WindowsApps\Microsoft.WindowsStore_22204.1401.5.0_x64__8wekyb3d8bbwe\StoreDesktopExtension\StoreDesktopExtension.exe,2022-05-DD 08:15:50,NA,False,Live Registry
+1,132,C:\Windows\System32\CastSrv.exe,2022-05-DD 05:20:03,NA,False,Live Registry
+1,133,C:\Program Files (x86)\LG Software\LG Update Center\UCAlarm.exe,2022-04-DD 03:59:25,NA,False,Live Registry
+1,134,C:\Program Files\WindowsApps\Microsoft.XboxIdentityProvider_12.85.31001.0_x64__8wekyb3d8bbwe\Application,2022-03-DD 05:49:44,NA,False,Live Registry
+1,135,C:\WINDOWS\System32\SLUI.exe,2022-05-DD 05:19:45,NA,False,Live Registry
+1,136,C:\WINDOWS\system32\SppExtComObj.exe,2022-05-DD 05:19:45,NA,False,Live Registry
+1,137,00000009	000c005579190000	0000000000000000	8664	Microsoft.XboxIdentityProvider	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,138,00000009	000c005579190000	000a000045630000	8664	Microsoft.XboxIdentityProvider	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,139,C:\WINDOWS\System32\mobsync.exe,2022-05-DD 05:20:13,NA,False,Live Registry
+1,140,C:\WINDOWS\system32\ApplicationFrameHost.exe,2022-05-DD 05:19:27,NA,False,Live Registry
+1,141,C:\Program Files\WindowsApps\Microsoft.WindowsStore_22204.1401.5.0_x64__8wekyb3d8bbwe\Application,2022-05-DD 08:15:56,NA,False,Live Registry
+1,142,00000009	56bc057900050000	0000000000000000	8664	Microsoft.WindowsStore	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,143,C:\WINDOWS\SysWOW64\cmd.exe,2022-05-DD 05:19:54,NA,False,Live Registry
+1,144,C:\Program Files (x86)\Naver\Naver Whale\Application\whale.exe,2022-05-DD 08:08:09,NA,False,Live Registry
+1,145,C:\Program Files (x86)\LG Software\LG Update Center\UCUpdate.exe,2021-11-DD 08:14:09,NA,False,Live Registry
+1,146,C:\WINDOWS\system32\AppHostRegistrationVerifier.exe,2022-05-DD 05:19:13,NA,False,Live Registry
+1,147,C:\WINDOWS\system32\ClipRenew.exe,2022-05-DD 10:51:33,NA,False,Live Registry
+1,148,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\Application,2022-06-DD 05:46:23,NA,False,Live Registry
+1,149,C:\Program Files\WindowsApps\Microsoft.WindowsFeedbackHub_1.2203.761.0_x64__8wekyb3d8bbwe\Application,2022-03-DD 03:51:33,NA,False,Live Registry
+1,150,C:\Windows\System32\fsquirt.exe,2022-05-DD 05:19:34,NA,False,Live Registry
+1,151,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\Application,2022-06-DD 05:46:20,NA,False,Live Registry
+1,152,C:\Program Files\WindowsApps\MicrosoftTeams_22133.500.1346.3200_x64__8wekyb3d8bbwe\msteamsupdate.exe,2022-05-DD 01:04:54,NA,False,Live Registry
+1,153,00000009	567501f405420c80	000a00004a610000	8664	MicrosoftTeams	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,154,C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20970.0_x64__8wekyb3d8bbwe\Application,2022-05-DD 08:11:54,NA,False,Live Registry
+1,155,C:\Program Files\WindowsApps\Microsoft.YourPhone_1.22051.113.0_x64__8wekyb3d8bbwe\Application,2022-06-DD 01:11:54,NA,False,Live Registry
+1,156,00000009	0001562300710000	000a000053350000	8664	Microsoft.YourPhone	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,157,00000009	0001089b02f90000	0000000000000000	8664	Microsoft.WindowsFeedbackHub	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,158,00000009	0001089b02f90000	000a000055f00000	8664	Microsoft.WindowsFeedbackHub	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,159,0000000b	000a0000585d0001	0000000000000000	8664	Microsoft.Windows.ShellExperienceHost	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,160,0000000b	002c585d00010000	0000000000000000	8664	Microsoft.MicrosoftEdge	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,161,00000009	3e8537f651ea0000	0000000000000000	8664	microsoft.windowscommunicationsapps	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,162,00000009	3e8537f651ea0000	000a00004c610000	8664	microsoft.windowscommunicationsapps	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,163,00000009	567501f405420c80	0000000000000000	8664	MicrosoftTeams	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,164,00000009	0001562300710000	0000000000000000	8664	Microsoft.YourPhone	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,165,C:\WINDOWS\System32\SearchProtocolHost.exe,2022-05-DD 05:19:22,NA,False,Live Registry
+1,166,C:\Program Files\WindowsApps\22094SynapticsIncorporate.SmartAudio2_1.1.51.0_x86__qt57b6kdvhcfw\SAII\UwpLauncher.exe,2020-10-DD 04:48:15,NA,False,Live Registry
+1,167,C:\Program Files\WindowsApps\22094SynapticsIncorporate.SmartAudio2_1.1.51.0_x86__qt57b6kdvhcfw\SAII\SmartAudio.exe,2020-10-DD 04:48:15,NA,False,Live Registry
+1,168,00000000	0001000100330000	0000000000000000	8664	22094SynapticsIncorporate.SmartAudio2	qt57b6kdvhcfw	,,NA,False,Live Registry
+1,169,C:\Program Files\WindowsApps\22094SynapticsIncorporate.SmartAudio2_1.1.51.0_x86__qt57b6kdvhcfw\CxUIUExe.exe,2020-10-DD 04:48:15,NA,False,Live Registry
+1,170,00000000	0001000100330000	000a00003fab0000	014c	22094SynapticsIncorporate.SmartAudio2	qt57b6kdvhcfw	,,NA,False,Live Registry
+1,171,C:\Windows\CxSvc\UwpLauncher.exe,2020-10-DD 04:48:15,NA,False,Live Registry
+1,172,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,2022-05-DD 05:20:22,NA,False,Live Registry
+1,173,C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Blend.exe,2022-06-DD 04:55:52,NA,False,Live Registry
+1,174,C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe,2022-06-DD 04:55:52,NA,False,Live Registry
+1,175,C:\Windows\SystemApps\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\Application,2022-06-DD 05:46:12,NA,False,Live Registry
+1,176,00000009	01a54e6601a90000	0000000000000000	8664	MicrosoftWindows.Client.WebExperience	cw5n1h2txyewy	,,NA,False,Live Registry
+1,177,0000000b	03e84c7c03e80000	0000000000000000	8664	Microsoft.AAD.BrokerPlugin	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,178,C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_421.20070.425.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe,2022-06-DD 02:12:47,NA,False,Live Registry
+1,179,C:\Windows\System32\RuntimeBroker.exe,2022-05-DD 05:19:15,NA,False,Live Registry
+1,180,C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\Application,2022-06-DD 05:46:20,NA,False,Live Registry
+1,181,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Application,2022-06-DD 05:46:19,NA,False,Live Registry
+1,182,C:\Users\rever\AppData\Local\GitHubDesktop\GitHubDesktop.exe,2022-01-DD 02:26:52,NA,False,Live Registry
+1,183,0000000b	000a0000585d0001	0000000000000000	8664	Microsoft.Windows.StartMenuExperienceHost	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,184,C:\Users\rever\AppData\Local\JandiApp\JandiApp.exe,2022-01-DD 07:32:18,NA,False,Live Registry
+1,185,C:\Program Files (x86)\Nmap\zenmap.exe,2021-08-DD 06:57:24,NA,False,Live Registry
+1,186,C:\Users\rever\AppData\Local\Programs\Notion\Notion.exe,2021-10-DD 10:29:14,NA,False,Live Registry
+1,187,00000009	03e8586803e80000	0000000000000000	8664	MicrosoftWindows.Client.CBS	cw5n1h2txyewy	,,NA,False,Live Registry
+1,188,C:\Users\rever\AppData\Roaming\Telegram Desktop\Telegram.exe,2022-03-DD 12:05:08,NA,False,Live Registry
+1,189,C:\Program Files\Wireshark\Wireshark.exe,2020-04-DD 11:03:38,NA,False,Live Registry
+1,190,C:\Program Files (x86)\NetSarang\Xftp 7\Xftp.exe,2021-01-DD 09:27:56,NA,False,Live Registry
+1,191,C:\Program Files (x86)\NetSarang\Xshell 7\Xshell.exe,2021-01-DD 09:28:00,NA,False,Live Registry
+1,192,C:\Program Files\Honeycam\Honeycam.exe,2021-07-DD 12:42:44,NA,False,Live Registry
+1,193,C:\Riot Games\Riot Client\RiotClientServices.exe,2022-01-DD 09:49:45,NA,False,Live Registry
+1,194,C:\Program Files\Bandizip\Bandizip.exe,2022-01-DD 07:51:46,NA,False,Live Registry
+1,195,C:\Program Files (x86)\Bandicam\bdcam.exe,2020-07-DD 09:43:52,NA,False,Live Registry
+1,196,C:\Program Files\Bandicut\bdcut.exe,2020-10-DD 04:55:36,NA,False,Live Registry
+1,197,C:\Program Files (x86)\ESTsoft\ALSee\ALSee.exe,2021-11-DD 04:53:02,NA,False,Live Registry
+1,198,C:\Program Files (x86)\Kakao\KakaoTalk\KakaoTalk.exe,2022-05-DD 05:36:58,NA,False,Live Registry
+1,199,C:\Program Files (x86)\HNC\Office 2020\HncUtils\Studio\HancomStudio.exe,2020-02-DD 01:38:00,NA,False,Live Registry
+1,200,C:\Program Files\Docker\Docker\Docker Desktop.exe,2022-01-DD 04:33:28,NA,False,Live Registry
+1,201,C:\Program Files\AccessData\FTK Imager\FTK Imager.exe,2020-08-DD 05:15:54,NA,False,Live Registry
+1,202,C:\Program Files\Google\Chrome\Application\chrome.exe,2022-05-DD 04:45:11,NA,False,Live Registry
+1,203,C:\Program Files (x86)\Event Log Explorer Beta\elex.exe,2021-05-DD 03:17:22,NA,False,Live Registry
+1,204,C:\Program Files\Norton Security\Engine\22.22.4.11\uiStub.exe,2022-05-DD 09:47:28,NA,False,Live Registry
+1,205,C:\Program Files\CPUID\HWMonitor\HWMonitor.exe,2021-11-DD 06:23:54,NA,False,Live Registry
+1,206,C:\Program Files\DB Browser for SQLite\DB Browser for SQLite.exe,2020-10-DD 11:02:08,NA,False,Live Registry
+1,207,C:\Program Files\Notepad++\notepad++.exe,2021-08-DD 11:16:26,NA,False,Live Registry
+1,208,C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe,2020-11-DD 01:01:18,NA,False,Live Registry
+1,209,C:\Program Files\HxD\HxD.exe,2021-02-DD 01:20:16,NA,False,Live Registry
+1,210,C:\Program Files (x86)\Samsung\Samsung DeX\SamsungDeX.exe,2021-12-DD 04:29:42,NA,False,Live Registry
+1,211,C:\Program Files\IDA Pro 7.5 SP3\ida.exe,2020-12-DD 09:18:18,NA,False,Live Registry
+1,212,C:\Program Files\IDA Pro 7.5 SP3\ida64.exe,2020-12-DD 09:18:18,NA,False,Live Registry
+1,213,C:\Program Files\Norton Security\Engine\22.22.4.11\buShell.dll,2022-05-DD 09:44:04,NA,False,Live Registry
+1,214,00000009	56bc057900050000	000a000055f00000	8664	Microsoft.WindowsStore	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,215,C:\Windows\SystemApps\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\Application,2022-06-DD 05:46:23,NA,False,Live Registry
+1,216,0000000b	000a0000585d0001	0000000000000000	8664	Microsoft.Windows.ContentDeliveryManager	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,217,0000000b	000a000058410001	000a000000000000	8664	Microsoft.Windows.ContentDeliveryManager	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,218,0000000b	000a0000000603e8	000a000055f00001	8664	windows.immersivecontrolpanel	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,219,C:\WINDOWS\system32\consent.exe,2022-05-DD 05:19:39,NA,False,Live Registry
+1,220,0000000b	000a000058410001	000a000058410001	8664	Microsoft.Windows.ShellExperienceHost	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,221,0000000b	000a000058410001	000a000058410001	8664	Microsoft.Windows.StartMenuExperienceHost	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,222,C:\Program Files\Google\Chrome\Application\102.0.5005.63\Installer\chrmstp.exe,2022-06-DD 07:23:04,NA,False,Live Registry
+1,223,C:\WINDOWS\system32\RAServer.exe,2022-05-DD 05:20:18,NA,False,Live Registry
+1,224,00000009	03e8584100010000	000a00007fff0000	8664	MicrosoftWindows.Client.CBS	cw5n1h2txyewy	,,NA,False,Live Registry
+1,225,0000000b	03e84c7c03e80000	000a0000295b0000	8664	Microsoft.AAD.BrokerPlugin	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,226,0000000b	000a00004c8303e8	000c000000000000	8664	Microsoft.BioEnrollment	cw5n1h2txyewy	,,NA,False,Live Registry
+1,227,C:\Windows\System32\unregmp2.exe,2022-05-DD 08:10:00,NA,False,Live Registry
+1,228,C:\Windows\System32\smartscreen.exe,2022-05-DD 05:19:17,NA,False,Live Registry
+1,229,C:\Program Files (x86)\TeamViewer\tv_x64.exe,2022-05-DD 09:20:14,NA,False,Live Registry
+1,230,C:\Program Files (x86)\TeamViewer\tv_w32.exe,2022-05-DD 09:20:10,NA,False,Live Registry
+1,231,C:\WINDOWS\system32\gpscript.exe,2022-05-DD 10:51:32,NA,False,Live Registry
+1,232,C:\WINDOWS\uus\AMD64\MoNotificationUx.exe,2022-05-DD 05:19:26,NA,False,Live Registry
+1,233,C:\Program Files (x86)\TeamViewer\TeamViewer.exe,2022-05-DD 09:22:51,NA,False,Live Registry
+1,234,C:\WINDOWS\Explorer.EXE,2022-05-DD 05:19:10,NA,False,Live Registry
+1,235,C:\Program Files (x86)\SoftForum\XecureWeb\AnySign\dll\AnySign4PC.exe,2019-09-DD 04:07:50,NA,False,Live Registry
+1,236,C:\Windows\system32\userinit.exe,2022-05-DD 05:19:31,NA,False,Live Registry
+1,237,C:\WINDOWS\system32\MDMAgent.exe,2022-05-DD 05:19:07,NA,False,Live Registry
+1,238,C:\Program Files (x86)\DreamSecurity\MagicLine4NX\MagicLine4NX.exe,2019-02-DD 09:25:56,NA,False,Live Registry
+1,239,C:\Program Files (x86)\Intel\Driver and Support Assistant\DSATray.exe,2022-05-DD 06:04:02,NA,False,Live Registry
+1,240,C:\WINDOWS\system32\sihost.exe,2022-05-DD 05:19:20,NA,False,Live Registry
+1,241,C:\WINDOWS\system32\rundll32.exe,2022-05-DD 05:19:47,NA,False,Live Registry
+1,242,C:\WINDOWS\System32\pcaui.exe,2022-05-DD 05:19:33,NA,False,Live Registry
+1,243,C:\WINDOWS\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_4a3ae74cfa6c37d6\dptf_helper.exe,2019-06-DD 09:11:30,NA,False,Live Registry
+1,244,C:\WINDOWS\system32\mpnotify.exe,2022-05-DD 05:19:27,NA,False,Live Registry
+1,245,C:\WINDOWS\system32\ctfmon.exe,2022-05-DD 05:19:12,NA,False,Live Registry
+1,246,C:\WINDOWS\system32\LogonUI.exe,2022-05-DD 05:19:27,NA,False,Live Registry
+1,247,C:\WINDOWS\system32\wermgr.exe,2022-05-DD 05:19:32,NA,False,Live Registry
+1,248,C:\WINDOWS\system32\devicecensus.exe,2022-05-DD 05:19:31,NA,False,Live Registry
+1,249,C:\WINDOWS\system32\sdbinst.exe,2022-05-DD 05:19:33,NA,False,Live Registry
+1,250,C:\WINDOWS\system32\dxgiadaptercache.exe,2022-05-DD 05:19:22,NA,False,Live Registry
+1,251,C:\WINDOWS\system32\ProvTool.exe,2022-05-DD 05:19:09,NA,False,Live Registry
+1,252,C:\$WINDOWS.~BT\Sources\SetupHost.Exe,2022-05-DD 06:34:38,NA,False,Live Registry
+1,253,C:\WINDOWS\system32\oobe\msoobe.exe,2022-05-DD 05:19:42,NA,False,Live Registry
+1,254,C:\WINDOWS\system32\oobe\oobeldr.exe,2022-05-DD 05:19:47,NA,False,Live Registry
+1,255,C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_76523213b78d9046\lib\IntelPTTEkRecertification.exe,2021-09-DD 01:02:20,NA,False,Live Registry
+1,256,C:\WINDOWS\uus\AMD64\MoUsoCoreWorker.exe,2022-05-DD 05:19:26,NA,False,Live Registry
+1,257,C:\WINDOWS\system32\taskhostw.exe,2022-05-DD 05:19:12,NA,False,Live Registry
+1,258,C:\Program Files\Windows Defender\MpCmdRun.exe,2022-05-DD 05:19:08,NA,False,Live Registry
+1,259,C:\WINDOWS\system32\taskkill.exe,2022-05-DD 05:20:15,NA,False,Live Registry
+1,260,C:\WINDOWS\system32\SearchIndexer.exe,2022-05-DD 05:19:22,NA,False,Live Registry
+1,261,C:\WINDOWS\system32\wbem\mofcomp.exe,2022-05-DD 05:19:10,NA,False,Live Registry
+1,262,C:\Program Files\Windows Defender\MsMpEng.exe,2022-05-DD 05:19:08,NA,False,Live Registry
+1,263,C:\Program Files\Norton Security\Engine\22.22.4.11\cltLMH.exe,2022-05-DD 09:44:54,NA,False,Live Registry
+1,264,C:\WINDOWS\system32\mcbuilder.exe,2022-05-DD 05:19:39,NA,False,Live Registry
+1,265,C:\WINDOWS\microsoft.net\framework64\v2.0.50727\ngen.exe,2022-05-DD 04:07:00,NA,False,Live Registry
+1,266,C:\WINDOWS\microsoft.net\framework\v2.0.50727\ngen.exe,2022-05-DD 04:06:00,NA,False,Live Registry
+1,267,C:\WINDOWS\system32\ie4uinit.exe,2022-05-DD 05:20:07,NA,False,Live Registry
+1,268,\\?\C:\WINDOWS\system32\wbem\WMIADAP.EXE,2022-05-DD 05:19:10,NA,False,Live Registry
+1,269,C:\WINDOWS\system32\ByteCodeGenerator.exe,2022-05-DD 05:19:14,NA,False,Live Registry
+1,270,00000009	01a54e6601a90000	000a00007fff0000	8664	MicrosoftWindows.Client.WebExperience	cw5n1h2txyewy	,,NA,False,Live Registry
+1,271,C:\Program Files\Intel\SUR\QUEENCREEK\x64\crashlog_extractor.exe,2022-02-DD 01:03:20,NA,False,Live Registry
+1,272,00000009	000b089a002e0000	000a000055f0015a	8664	Microsoft.ZuneMusic	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,273,00000009	0001000000270000	000a000055f00000	8664	Microsoft.WindowsMaps	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,274,C:\Program Files\Google\Chrome\Application\102.0.5005.63\Installer\setup.exe,2022-06-DD 07:23:04,NA,False,Live Registry
+1,275,C:\WINDOWS\system32\wbem\WmiApSrv.exe,2022-05-DD 05:19:10,NA,False,Live Registry
+1,276,C:\Program Files (x86)\Google\Update\1.3.36.132\GoogleCrashHandler64.exe,2022-04-DD 12:17:48,NA,False,Live Registry
+1,277,C:\Program Files (x86)\Google\Update\1.3.36.132\GoogleCrashHandler.exe,2022-04-DD 12:17:48,NA,False,Live Registry
+1,278,C:\Program Files (x86)\Google\Update\GoogleUpdate.exe,2021-03-DD 06:10:10,NA,False,Live Registry
+1,279,C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv_svc.exe,2022-02-DD 01:03:22,NA,False,Live Registry
+1,280,00000009	03e8585d00010000	000a000055f00001	8664	Microsoft.SecHealthUI	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,281,00000009	0001000763bb0000	000a000027410000	8664	Microsoft.NET.Native.Runtime.1.7	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,282,0000000b	0006000200020000	03e8585d00010000	8664	Windows.PrintDialog	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,283,0000000b	03e8585d00010000	03e8585d00010000	8664	NcsiUwpApp	8wekyb3d8bbwe	neutral,,NA,False,Live Registry
+1,284,0000000b	000a0000585d0001	000a0000585d0001	8664	MicrosoftWindows.UndockedDevKit	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,285,00000009	03e8586703e80000	000a00007fff0000	8664	MicrosoftWindows.Client.Core	cw5n1h2txyewy	,,NA,False,Live Registry
+1,286,00000009	03e8586803e80000	000a00007fff0000	8664	MicrosoftWindows.Client.CBS	cw5n1h2txyewy	,,NA,False,Live Registry
+1,287,0000000b	03e8585d00010000	000a000000000000	8664	Microsoft.XboxGameCallableUI	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,288,0000000b	000a0000585d0001	000a0000585d0001	8664	Microsoft.Windows.XGpuEjectDialog	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,289,0000000b	000a0000585d0001	000a0000585d0001	8664	Microsoft.Windows.StartMenuExperienceHost	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,290,0000000b	000a0000585d0001	000a0000585d0001	8664	Microsoft.Windows.ShellExperienceHost	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,291,0000000b	000a0000585d0001	000c000000000000	8664	Microsoft.Windows.SecureAssessmentBrowser	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,292,0000000b	0001000000010000	000c000000000000	8664	Microsoft.Windows.PrintQueueActionCenter	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,293,0000000b	03e8585d00010000	000a000000000000	8664	Microsoft.Windows.PinningConfirmationDialog	cw5n1h2txyewy	,,NA,False,Live Registry
+1,294,0000000b	000a0000585d0001	000a0000585d0001	8664	Microsoft.Windows.PeopleExperienceHost	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,295,0000000b	03e8585d00010000	000a000000000000	8664	Microsoft.Windows.ParentalControls	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,296,0000000b	000a0000585d0001	000a0000452b0000	8664	Microsoft.Windows.NarratorQuickStart	8wekyb3d8bbwe	neutral,,NA,False,Live Registry
+1,297,0000000b	000a0000585d0001	000a000000000000	8664	Microsoft.Windows.ContentDeliveryManager	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,298,0000000b	000a0000585d0001	000b000000000000	8664	Microsoft.Windows.CloudExperienceHost	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,299,0000000b	03e8585d00010000	03e8585d00010000	8664	Microsoft.Windows.CallingShellApp	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,300,0000000b	03e8585d00010000	000a000000000000	8664	Microsoft.Windows.AssignedAccessLockApp	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,301,0000000b	03e8585d00010000	000a000000000000	8664	Microsoft.Windows.Apprep.ChxApp	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,302,0000000b	000a0000585d0001	000b000000000000	8664	Microsoft.Win32WebViewHost	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,303,00000009	0008089c17710000	000a000047ba0000	8664	Microsoft.UI.Xaml.CBS	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,304,0000000b	000a0000585d0001	000a00003fab0000	8664	Microsoft.PPIProjection	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,305,0000000b	002c585d00010000	000a000047ba0000	8664	Microsoft.MicrosoftEdge	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,306,0000000b	03e8585d00010000	000c000000000000	8664	Microsoft.MicrosoftEdgeDevToolsClient	8wekyb3d8bbwe	neutral,,NA,False,Live Registry
+1,307,0000000b	000a0000585d0001	000a000000000000	8664	Microsoft.LockApp	cw5n1h2txyewy	,,NA,False,Live Registry
+1,308,0000000b	000a0000585d0001	000a000038390000	8664	Microsoft.ECApp	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,309,0000000b	000a0000585d0001	000a000038390000	8664	Microsoft.AsyncTextService	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,310,0000000b	000a0000585d0001	000a0000585d0001	8664	Microsoft.AccountsControl	cw5n1h2txyewy	,,NA,False,Live Registry
+1,311,0000000b	000a0000585d0001	000a0000585d0001	8664	F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,312,0000000b	000a0000585d0001	000a000042ee0000	8664	c5e2524a-ea46-4f67-841f-6a9465d9d515	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,313,C:\Program Files\Norton Security\Engine\22.22.4.11\SymErr.exe,2022-05-DD 09:48:15,NA,False,Live Registry
+1,314,C:\Program Files (x86)\Intel\Driver and Support Assistant\DSAArcDetect64.exe,2022-05-DD 06:05:30,NA,False,Live Registry
+1,315,C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe,2022-05-DD 05:19:56,NA,False,Live Registry
+1,316,C:\Program Files\Norton Security\Engine\22.22.4.11\WSCStub.exe,2022-05-DD 09:47:28,NA,False,Live Registry
+1,317,C:\Program Files (x86)\Intel\Driver and Support Assistant\DSAUpdateService.exe,2022-05-DD 06:03:10,NA,False,Live Registry
+1,318,C:\WINDOWS\system32\wbem\unsecapp.exe,2022-05-DD 05:19:10,NA,False,Live Registry
+1,319,C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.22621.1_none_6af52cfcbb08aaa3\TiWorker.exe,2022-05-DD 05:19:46,NA,False,Live Registry
+1,320,C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe,2020-11-DD 12:47:28,NA,False,Live Registry
+1,321,C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe,2020-10-DD 12:44:46,NA,False,Live Registry
+1,322,C:\Program Files\Docker\Docker\com.docker.service,2022-01-DD 04:32:38,NA,False,Live Registry
+1,323,C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe,2022-05-DD 09:22:54,NA,False,Live Registry
+1,324,C:\Program Files\Norton Security\Engine\22.22.4.11\nsWscSvc.exe,2022-05-DD 09:47:26,NA,False,Live Registry
+1,325,C:\Windows\SysWOW64\vmnetdhcp.exe,2020-11-DD 12:59:32,NA,False,Live Registry
+1,326,C:\Windows\SysWOW64\vmnat.exe,2020-11-DD 12:59:26,NA,False,Live Registry
+1,327,C:\Program Files\Norton Security\Engine\22.22.4.11\NortonSecurity.exe,2022-05-DD 09:43:02,NA,False,Live Registry
+1,328,C:\Program Files\Intel\SUR\QUEENCREEK\SurSvc.exe,2022-02-DD 01:03:20,NA,False,Live Registry
+1,329,C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe,2022-05-DD 10:10:27,NA,False,Live Registry
+1,330,C:\WINDOWS\System32\DriverStore\FileRepository\dal.inf_amd64_b5484efd38adbe8d\jhi_service.exe,2021-06-DD 09:23:52,NA,False,Live Registry
+1,331,C:\Program Files (x86)\ESTsoft\ALUpdate\eausvc.exe,2019-10-DD 09:19:56,NA,False,Live Registry
+1,332,C:\Program Files\Samsung\USB Drivers\28_ssconn2\conn\ss_conn_service2.exe,2021-06-DD 05:50:22,NA,False,Live Registry
+1,333,C:\Program Files\Samsung\USB Drivers\27_ssconn\conn\ss_conn_service.exe,2021-06-DD 02:12:44,NA,False,Live Registry
+1,334,C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe,2021-07-DD 08:10:52,NA,False,Live Registry
+1,335,C:\Program Files (x86)\LG Software\LG Security Center\LGSCService.exe,2016-03-DD 06:27:08,NA,False,Live Registry
+1,336,C:\WINDOWS\SysWOW64\nTrackerAutoRun.exe,2015-07-DD 05:59:16,NA,False,Live Registry
+1,337,C:\Program Files (x86)\DreamSecurity\MagicLine4NX\MagicLine4NXServices.exe,2018-11-DD 07:45:48,NA,False,Live Registry
+1,338,C:\Program Files (x86)\LG Software\LG Control Center\LGControlCenterSVC.exe,2020-04-DD 03:06:36,NA,False,Live Registry
+1,339,C:\Program Files (x86)\LG Software\LG Time Manager\LGTimeManager.exe,2017-07-DD 05:51:26,NA,False,Live Registry
+1,340,C:\Program Files (x86)\SoftForum\XecureWeb\AnySign\dll\AnySign4PCLauncher.exe,2019-09-DD 04:07:54,NA,False,Live Registry
+1,341,C:\Program Files (x86)\LG Software\LG Device Manager\DeviceManager.exe,2020-01-DD 09:02:04,NA,False,Live Registry
+1,342,C:\Program Files (x86)\HNC\Office 2020\HncUtils\Service\HncUpdateService.exe,2020-01-DD 06:25:26,NA,False,Live Registry
+1,343,C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_76523213b78d9046\lib\SocketHeciServer.exe,2021-09-DD 01:02:28,NA,False,Live Registry
+1,344,C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_76523213b78d9046\lib\TPMProvisioningService.exe,2021-09-DD 01:02:28,NA,False,Live Registry
+1,345,C:\Windows\CxSvc\CxUtilSvc.exe,2020-10-DD 04:48:15,NA,False,Live Registry
+1,346,C:\Program Files (x86)\iniLINE\CrossEX\crossex\ObCrossEXService.exe,2019-08-DD 05:57:14,NA,False,Live Registry
+1,347,C:\Program Files (x86)\Common Files\Macrovision Shared\FlexNet Publisher\FNPLicensingService.exe,2021-03-DD 06:28:29,NA,False,Live Registry
+1,348,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_c5b8ab411088075f\IntelCpHDCPSvc.exe,2021-08-DD 04:21:08,NA,False,Live Registry
+1,349,C:\Program Files (x86)\Intel\Driver and Support Assistant\DSAService.exe,2022-05-DD 06:07:18,NA,False,Live Registry
+1,350,C:\Windows\CxSvc\CxAudioSvc.exe,2020-10-DD 04:48:15,NA,False,Live Registry
+1,351,C:\WINDOWS\system32\DllHost.exe,2022-05-DD 05:19:31,NA,False,Live Registry
+1,352,C:\$WINDOWS.~BT\Sources\mighost.exe,2022-05-DD 11:28:36,NA,False,Live Registry
+1,353,C:\WINDOWS\Microsoft.NET\Framework64\v2.0.50727\aspnet_regiis.exe,2022-05-DD 04:07:00,NA,False,Live Registry
+1,354,C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_regiis.exe,2022-05-DD 04:06:00,NA,False,Live Registry
+1,355,C:\WINDOWS\WinSxS\amd64_netfx35linq-linqwebconfig_31bf3856ad364e35_10.0.22621.1_none_b8a2815cdbc69498\LinqWebConfig.exe,2022-05-DD 04:08:00,NA,False,Live Registry
+1,356,C:\WINDOWS\WinSxS\x86_netfx35linq-linqwebconfig_31bf3856ad364e35_10.0.22621.1_none_5c83e5d923692362\LinqWebConfig.exe,2022-05-DD 04:06:00,NA,False,Live Registry
+1,357,C:\WINDOWS\WinSxS\amd64_netfx35cdf-csd_cdf_installer_31bf3856ad364e35_10.0.22621.1_none_b9f1e3f91fb3a294\WFServicesReg.exe,2022-05-DD 04:08:00,NA,False,Live Registry
+1,358,C:\WINDOWS\WinSxS\x86_netfx35cdf-csd_cdf_installer_31bf3856ad364e35_10.0.22621.1_none_5dd348756756315e\WFServicesReg.exe,2022-05-DD 04:06:00,NA,False,Live Registry
+1,359,C:\WINDOWS\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\SMConfigInstaller.exe,2022-05-DD 12:24:04,NA,False,Live Registry
+1,360,C:\WINDOWS\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMConfigInstaller.exe,2022-05-DD 12:24:07,NA,False,Live Registry
+1,361,C:\WINDOWS\System32\DTS\PC\APO4x\DtsApo4Service.exe,2019-07-DD 01:45:48,NA,False,Live Registry
+1,362,C:\WINDOWS\system32\pnputil.exe,2022-05-DD 05:19:42,NA,False,Live Registry
+1,363,C:\WINDOWS\System32\SynaAssist64.exe,2019-09-DD 08:51:54,NA,False,Live Registry
+1,364,C:\WINDOWS\System32\CxAudMsg64.exe,2019-09-DD 08:51:54,NA,False,Live Registry
+1,365,C:\WINDOWS\System32\CxUIUSvc32.exe,2019-09-DD 08:51:54,NA,False,Live Registry
+1,366,C:\Windows\syswow64\MsiExec.exe,2022-05-DD 05:20:21,NA,False,Live Registry
+1,367,C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_78303839a8ee70c0\igfxextN.exe,2021-08-DD 04:20:56,NA,False,Live Registry
+1,368,C:\WINDOWS\system32\msiexec.exe,2022-05-DD 05:20:10,NA,False,Live Registry
+1,369,C:\WINDOWS\system32\ibtsiva.exe,2021-06-DD 02:27:20,NA,False,Live Registry
+1,370,C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_78303839a8ee70c0\igfxSDK.exe,2021-08-DD 04:21:00,NA,False,Live Registry
+1,371,C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_78303839a8ee70c0\igfxEMN.exe,2021-08-DD 04:20:52,NA,False,Live Registry
+1,372,C:\WINDOWS\system32\cmd.exe,2022-05-DD 05:19:23,NA,False,Live Registry
+1,373,C:\WINDOWS\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_82730f183a576105\OneApp.IGCC.WinService.exe,2021-08-DD 04:21:34,NA,False,Live Registry
+1,374,C:\WINDOWS\System32\DriverStore\FileRepository\lguwpservice.inf_amd64_c2f1c50f771c2d10\LGUWPService.exe,2021-01-DD 08:14:28,NA,False,Live Registry
+1,375,C:\WINDOWS\System32\DriverStore\FileRepository\platmgrsvc.inf_amd64_8f224c030b55d621\PlatformMgrService.exe,2021-01-DD 08:14:30,NA,False,Live Registry
+1,376,C:\WINDOWS\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe,2022-05-DD 04:08:00,NA,False,Live Registry
+1,377,C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_78303839a8ee70c0\igfxCUIServiceN.exe,2021-08-DD 04:20:40,NA,False,Live Registry
+1,378,C:\WINDOWS\system32\werfault.exe,2022-05-DD 05:19:32,NA,False,Live Registry
+1,379,C:\WINDOWS\system32\Sgrm\SgrmBroker.exe,2022-05-DD 05:20:01,NA,False,Live Registry
+1,380,C:\WINDOWS\SysWOW64\regsvr32.exe,2022-05-DD 05:20:22,NA,False,Live Registry
+1,381,C:\WINDOWS\system32\regsvr32.exe,2022-05-DD 05:20:13,NA,False,Live Registry
+1,382,C:\WINDOWS\system32\WLANExt.exe,2022-05-DD 05:19:11,NA,False,Live Registry
+1,383,C:\WINDOWS\System32\drivers\SessionService.exe,2019-09-DD 09:34:04,NA,False,Live Registry
+1,384,C:\WINDOWS\ThunderboltService.exe,2019-06-DD 02:34:10,NA,False,Live Registry
+1,385,C:\WINDOWS\system32\icacls.exe,2022-05-DD 05:20:02,NA,False,Live Registry
+1,386,C:\WINDOWS\system32\takeown.exe,2022-05-DD 05:20:15,NA,False,Live Registry
+1,387,C:\WINDOWS\System32\DriverStore\FileRepository\sgx_psw.inf_amd64_ea574a1b555312cb\aesm_service.exe,2019-07-DD 03:12:36,NA,False,Live Registry
+1,388,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2022-06-DD 07:10:09,NA,False,Live Registry
+1,389,C:\Program Files (x86)\Microsoft\Edge\Application\102.0.1245.33\Installer\setup.exe,2022-06-DD 07:24:04,NA,False,Live Registry
+1,390,C:\WINDOWS\System32\AggregatorHost.exe,2022-05-DD 05:19:31,NA,False,Live Registry
+1,391,C:\WINDOWS\system32\DrvInst.exe,2022-05-DD 05:19:42,NA,False,Live Registry
+1,392,C:\WINDOWS\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_4a3ae74cfa6c37d6\esif_uf.exe,2019-06-DD 09:11:32,NA,False,Live Registry
+1,393,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,2020-09-DD 07:36:18,NA,False,Live Registry
+1,394,C:\WINDOWS\TbtP2pShortcutService.exe,2020-12-DD 05:51:30,NA,False,Live Registry
+1,395,C:\WINDOWS\System32\spoolsv.exe,2022-05-DD 05:19:09,NA,False,Live Registry
+1,396,C:\WINDOWS\servicing\TrustedInstaller.exe,2022-05-DD 05:19:46,NA,False,Live Registry
+1,397,C:\WINDOWS\System32\Upfc.exe,2022-05-DD 05:19:14,NA,False,Live Registry
+1,398,C:\WINDOWS\system32\Clipup.exe,2022-05-DD 05:20:02,NA,False,Live Registry
+1,399,C:\WINDOWS\system32\secinit.exe,2022-05-DD 05:19:37,NA,False,Live Registry
+1,400,C:\WINDOWS\system32\oobe\setup.exe,2022-05-DD 05:19:47,NA,False,Live Registry
+1,401,C:\WINDOWS\System32\vds.exe,2022-05-DD 05:19:13,NA,False,Live Registry
+1,402,C:\WINDOWS\System32\vdsldr.exe,2022-05-DD 05:19:13,NA,False,Live Registry
+1,403,C:\$WINDOWS.~BT\Sources\SetupPlatform.exe,2022-05-DD 11:38:42,NA,False,Live Registry
+1,404,C:\WINDOWS\system32\oobe\windeploy.exe,2022-05-DD 05:19:47,NA,False,Live Registry
+1,405,C:\WINDOWS\system32\wbem\wmiprvse.exe,2022-05-DD 05:19:27,NA,False,Live Registry
+1,406,c:\windows\system32\NetCfgNotifyObjectHost.exe,2022-05-DD 05:19:42,NA,False,Live Registry
+1,407,C:\WINDOWS\system32\dwm.exe,2022-05-DD 05:19:34,NA,False,Live Registry
+1,408,C:\WINDOWS\system32\sppsvc.exe,2022-05-DD 05:19:45,NA,False,Live Registry
+1,409,C:\Windows\System32\WUDFHost.exe,2022-05-DD 05:19:30,NA,False,Live Registry
+1,410,C:\WINDOWS\system32\fontdrvhost.exe,2022-05-DD 05:19:35,NA,False,Live Registry
+1,411,C:\WINDOWS\system32\svchost.exe,2022-05-DD 05:19:30,NA,False,Live Registry
+1,412,C:\WINDOWS\system32\lsass.exe,2022-05-DD 05:19:30,NA,False,Live Registry
+1,413,C:\WINDOWS\system32\services.exe,2022-05-DD 05:19:30,NA,False,Live Registry
