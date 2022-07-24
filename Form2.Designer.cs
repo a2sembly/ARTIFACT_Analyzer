@@ -252,8 +252,10 @@
             this.Controls.Add(this.metroLabel2);
             this.Controls.Add(this.t_amcache_dir);
             this.Controls.Add(this.metroLabel1);
+            this.MaximizeBox = false;
             this.Name = "Form2";
             this.Text = "설정";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form2_FormClosed);
             this.Load += new System.EventHandler(this.Form2_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

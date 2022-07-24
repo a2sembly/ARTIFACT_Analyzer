@@ -29,7 +29,6 @@ C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\bin\Debug\net6.0-windows\MetroFra
 C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
 C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\bin\Debug\net6.0-windows\MetroFramework.dll
 C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.csproj.AssemblyReference.cache
-C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.Form1.resources
 C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.Form2.resources
 C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.csproj.GenerateResource.cache
 C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.GeneratedMSBuildEditorConfig.editorconfig

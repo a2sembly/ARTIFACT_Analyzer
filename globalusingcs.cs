@@ -19,8 +19,9 @@ namespace ARTIFACT_Analyzer
         public string Lnk = null;
         public string Eventlog = null;
         public string Timeformat = null;
+        public string SaveDir = Application.StartupPath + "Result_Artifact";
 
-        public string OP_File()
+    public string OP_File()
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
             openFileDialog.InitialDirectory = Environment.CurrentDirectory;

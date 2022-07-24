@@ -3,6 +3,7 @@
     public partial class Form2 : MetroForm
     {
         Setting set = new Setting();
+        Files files = new Files();
         public Form2()
         {
             InitializeComponent();
@@ -76,7 +77,29 @@
             set.Lnk = t_lnk_dir.Text;
             set.Jumplist = t_jumplist_dir.Text;
             set.Timeformat = t_timeforamt.Text;
-            (new Form1()).Show();
+            this.Close();
+            string title = @"
+-----------------------------------------------------------------------
+ _______        __   __   ___              __     
+|   _   |.----.|  |_|__|.'  _|.---.-.----.|  |_   
+|       ||   _||   _|  ||   _||  _  |  __||   _|  
+|___|___||__|  |____|__||__|  |___._|____||____|  
+                                                  
+ _______               __                         
+|   _   |.-----.---.-.|  |.--.--.-----.-----.----.
+|       ||     |  _  ||  ||  |  |-- __|  -__|   _|
+|___|___||__|__|___._||__||___  |_____|_____|__|  
+                          |_____|                 
+-----------------------------------------------------------------------";
+            Console.WriteLine(title);
+            Console.WriteLine("Amcache: " + set.Amcache);
+            Console.WriteLine("Prefetch: " + set.Prefetch);
+            Console.WriteLine("EventLog: " + set.Eventlog);
+            Console.WriteLine("AppCompatCache: " + set.Appcompatcache);
+            Console.WriteLine("LinkFile: " + set.Lnk);
+            Console.WriteLine("JumpList: " + set.Jumplist);
+            Console.WriteLine("Args: " + "--csv " + set.SaveDir + " --dt " + "yyyy-MM-dd HH:mm:ss");
+            Console.WriteLine(files.getConsoleMsg(Application.StartupPath + "Module\\LECmd\\LECmd.exe","hahaha"));
             this.Close();
         }
 
@@ -114,6 +137,10 @@
             t_eventlog_dir.Enabled = true;
             t_jumplist_dir.Enabled = true;
             t_lnk_dir.Enabled = true;
+        }
+
+        private void Form2_FormClosed(object sender, FormClosedEventArgs e)
+        {
         }
     }
 }
