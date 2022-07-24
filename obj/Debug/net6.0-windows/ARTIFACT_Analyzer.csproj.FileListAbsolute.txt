@@ -20,3 +20,25 @@ C:\Users\rever\OneDrive\바탕 화면\ARTIFACT\ARTIFACT_Analyzer\obj\Debug\net6.
 C:\Users\rever\OneDrive\바탕 화면\ARTIFACT\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.pdb
 C:\Users\rever\OneDrive\바탕 화면\ARTIFACT\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.genruntimeconfig.cache
 C:\Users\rever\OneDrive\바탕 화면\ARTIFACT\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ref\ARTIFACT_Analyzer.dll
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\bin\Debug\net6.0-windows\ARTIFACT_Analyzer.exe
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\bin\Debug\net6.0-windows\ARTIFACT_Analyzer.deps.json
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\bin\Debug\net6.0-windows\ARTIFACT_Analyzer.runtimeconfig.json
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\bin\Debug\net6.0-windows\ARTIFACT_Analyzer.dll
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\bin\Debug\net6.0-windows\ARTIFACT_Analyzer.pdb
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\bin\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.csproj.AssemblyReference.cache
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.Form1.resources
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.Form2.resources
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.csproj.GenerateResource.cache
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.AssemblyInfoInputs.cache
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.AssemblyInfo.cs
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.csproj.CopyComplete
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.dll
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\refint\ARTIFACT_Analyzer.dll
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.pdb
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ARTIFACT_Analyzer.genruntimeconfig.cache
+C:\Users\seunghyeong\Desktop\ARTIFACT_Analyzer\obj\Debug\net6.0-windows\ref\ARTIFACT_Analyzer.dll

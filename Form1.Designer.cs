@@ -39,6 +39,7 @@
             this.columnHeader7 = new System.Windows.Forms.ColumnHeader();
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel2 = new MetroFramework.Controls.MetroLabel();
+            this.metroButton1 = new MetroFramework.Controls.MetroButton();
             this.SuspendLayout();
             // 
             // metroListView1
@@ -141,11 +142,21 @@
             this.metroLabel2.TabIndex = 4;
             this.metroLabel2.Text = "Data";
             // 
+            // metroButton1
+            // 
+            this.metroButton1.Location = new System.Drawing.Point(541, 440);
+            this.metroButton1.Name = "metroButton1";
+            this.metroButton1.Size = new System.Drawing.Size(236, 48);
+            this.metroButton1.TabIndex = 5;
+            this.metroButton1.Text = "Start";
+            this.metroButton1.UseSelectable = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 607);
+            this.ClientSize = new System.Drawing.Size(800, 775);
+            this.Controls.Add(this.metroButton1);
             this.Controls.Add(this.metroLabel2);
             this.Controls.Add(this.metroLabel1);
             this.Controls.Add(this.mlist_module);
@@ -171,5 +182,6 @@
         private ColumnHeader columnHeader7;
         private MetroLabel metroLabel1;
         private MetroLabel metroLabel2;
+        private MetroButton metroButton1;
     }
 }
